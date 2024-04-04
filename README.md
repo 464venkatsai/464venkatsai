@@ -1,4 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=464venkatsai&label=Profile%20views&color=0e75b6&style=flat" alt="464venkatsai" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=464venkatsai&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views" />
+</p>
+
 <h1 align="center">Hi There👋, I'm Yogeswarvenkatasai</h1>
 <h3 align="center">A data science student passionate about leveraging data-driven insights to solve real-world problems.</h3>
 
