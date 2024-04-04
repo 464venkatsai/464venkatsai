@@ -1,3 +1,5 @@
+![venkatsai](https://github.com/464venkatsai/464venkatsai/assets/112299999/c03e9b70-835a-4b54-bedf-0fdb0712dee7)
+
 👋 Hi there! I'm [Your Name], a data science student passionate about leveraging data-driven insights to solve real-world problems.
 
 🧠 Interests: I'm particularly interested in machine learning, data visualization, and natural language processing.
