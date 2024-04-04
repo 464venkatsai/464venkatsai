@@ -1,4 +1,5 @@
-![darascience](https://github.com/464venkatsai/464venkatsai/assets/112299999/f7459568-b579-483f-a3f1-07c8cecfb8e3)
+![datascience](https://github.com/464venkatsai/464venkatsai/assets/112299999/fdeecf4a-65d3-49e6-9a95-122ade624572)
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=464venkatsai&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views" />
 </p>
