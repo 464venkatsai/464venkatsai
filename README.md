@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I love Anime**
 ## Languages
-<img src="https://img.shields.io/badge/Python-f5e642?style=flat&logo=python&logoColor=white">    <img src = "https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white">    <img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">     <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">    <img src = "https://img.shields.io/badge/-Java-red?style=flat&logo=Java&logoColor=blue"> 
+<img src="https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=blue">    <img src = "https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white">    <img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">     <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">    <img src = "https://img.shields.io/badge/-Java-red?style=flat&logo=Java&logoColor=blue"> 
 
 ## Libraries and Frameworks
 <img src="https://img.shields.io/badge/-Numpy-ffffff?style=flat&logo=Numpy&logoColor=4cc5f5">   <img src="https://img.shields.io/badge/-Pandas-000000?style=flat&logo=Pandas&logoColor=ffffff">    <img src="https://img.shields.io/badge/-Matplotlib-red?style=flat&logo=Matplotlib&logoColor=white">  <img src="https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=Seaborn&logoColor=ffffff">    <img src="https://img.shields.io/badge/-Sklearn-white?style=flat&logo=Scikit-learn&logoColor=black"> <img src="https://img.shields.io/badge/-Tensorflow-white?style=flat&logo=tensorflow&logoColor=orange">
